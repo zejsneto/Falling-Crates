@@ -13,13 +13,13 @@ Link: [Play Game](https://zejsneto.itch.io/fallingcrates)<br>
 
 ## 👁️‍🗨️ Preview
 <p align="center">
-  <img width="70%" src="/repository-assets/img1.jpg" />
+  <img width="70%" src="/repository-assets/img1.png" />
 </p>
 <p align="center">
-  <img width="70%" src="/repository-assets/img2.jpg" />
+  <img width="70%" src="/repository-assets/img2.png" />
 </p>
 <p align="center">
-  <img width="70%" src="/repository-assets/img3.jpg" />
+  <img width="70%" src="/repository-assets/img3.png" />
 </p>
 
 ---
