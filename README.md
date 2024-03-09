@@ -33,6 +33,7 @@ Link: [Play Game](https://zejsneto.itch.io/fallingcrates)<br>
 
 ## 👾 **Assets Used**
 
+[Modular Platformer Pack](https://quaternius.com/packs/modularplatformer.html) - by: Quaternius <br>
 [FREE Skybox Extended Shader](https://assetstore.unity.com/packages/vfx/shaders/free-skybox-extended-shader-107400) - by: BOXOPHOBIC <br>
 [LeanTween](https://assetstore.unity.com/packages/tools/animation/leantween-3595) - by: Dented Pixel <br>
 [Low Poly Water](https://assetstore.unity.com/packages/tools/particles-effects/lowpoly-water-107563) - by: Ebru Dogan <br>
