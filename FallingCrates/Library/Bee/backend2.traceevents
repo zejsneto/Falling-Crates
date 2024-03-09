@@ -1,0 +1,303 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1710002880801008, "dur":12962, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710002880814039, "dur":472, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710002880815538, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":0, "ts":1710002880814521, "dur":1531, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710002880816053, "dur":69854, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710002880885909, "dur":87, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710002880886007, "dur":289, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710002880886443, "dur":850, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1710002880814403, "dur":1652, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710002880816057, "dur":2891, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1710002880819840, "dur":268, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820322, "dur":65, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820388, "dur":192, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820580, "dur":55, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\LeanTween.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820635, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820733, "dur":127, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820861, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820946, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880821097, "dur":107, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\zenet\\Downloads\\Unity\\FallingCrates\\Library\\Bee\\PlayerScriptAssemblies\\Cinemachine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1710002880820109, "dur":1193, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710002880821584, "dur":61395, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710002880885306, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710002880885306, "dur":53, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1710002880885368, "dur":502, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1710002880815213, "dur":1320, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710002880816533, "dur":2421, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1710002880818960, "dur":168, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1710002880833196, "dur":785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1710002880834047, "dur":1934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710002880836048, "dur":1906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710002880837984, "dur":2670, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710002880840677, "dur":2635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710002880843371, "dur":4146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1710002880847545, "dur":38355, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710002880814534, "dur":1572, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710002880816108, "dur":1137, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710002880817246, "dur":1886, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1710002880820193, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880821549, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880822377, "dur":451, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880822851, "dur":536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880823435, "dur":788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880824275, "dur":832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880825178, "dur":906, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880826114, "dur":929, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880827115, "dur":1187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880828355, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/LeanTween.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880829677, "dur":1090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880830808, "dur":973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880831842, "dur":940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880832813, "dur":1432, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880834309, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880837008, "dur":1968, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880839018, "dur":3076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880842142, "dur":2400, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1710002880844584, "dur":15523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":3, "ts":1710002880860127, "dur":25791, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710002880814616, "dur":1494, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710002880816111, "dur":652, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710002880816763, "dur":2189, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1710002880818969, "dur":118, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710002880818956, "dur":132, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710002880835399, "dur":1237, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":4, "ts":1710002880836720, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710002880838915, "dur":2991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710002880841970, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710002880844371, "dur":8412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":4, "ts":1710002880852807, "dur":33105, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710002880814682, "dur":1431, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710002880816114, "dur":686, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710002880816800, "dur":2205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1710002880819017, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1710002880819006, "dur":228, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1710002880853978, "dur":557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":5, "ts":1710002880854556, "dur":31358, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710002880814804, "dur":1313, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710002880816119, "dur":885, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710002880817004, "dur":2133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1710002880819178, "dur":117, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\MonoBleedingEdge\\lib\\mono\\unityjit-win32\\System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710002880819137, "dur":159, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710002880871430, "dur":548, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":6, "ts":1710002880872001, "dur":13937, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710002880814830, "dur":1320, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710002880816152, "dur":841, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710002880816993, "dur":1984, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1710002880818985, "dur":145, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710002880818978, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710002880824941, "dur":533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1710002880825502, "dur":963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880826530, "dur":788, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880827346, "dur":846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/AssemblyDef.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880828219, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880829368, "dur":1010, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880830417, "dur":1137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880831582, "dur":1081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880832730, "dur":1319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880834125, "dur":2105, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880836293, "dur":2127, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880838479, "dur":2885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880841455, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880843797, "dur":3975, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1710002880847822, "dur":38117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710002880814849, "dur":1335, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710002880816186, "dur":936, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710002880817122, "dur":1854, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1710002880818977, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710002880834933, "dur":746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":8, "ts":1710002880835731, "dur":2027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710002880837802, "dur":2768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710002880840601, "dur":2672, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710002880843308, "dur":4140, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1710002880847499, "dur":38405, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710002880814864, "dur":1380, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710002880816246, "dur":901, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710002880817147, "dur":1985, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1710002880834269, "dur":2221, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710002880836558, "dur":2025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710002880838724, "dur":2839, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710002880841615, "dur":2424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710002880844073, "dur":3919, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1710002880848037, "dur":37884, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710002880814931, "dur":1352, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710002880816284, "dur":594, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710002880816878, "dur":2132, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1710002880819020, "dur":216, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1710002880819011, "dur":226, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1710002880858373, "dur":520, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":10, "ts":1710002880858914, "dur":27018, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710002880815001, "dur":1318, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710002880816319, "dur":2778, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1710002880835010, "dur":3007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710002880838108, "dur":2883, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710002880841094, "dur":2430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710002880843560, "dur":4119, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1710002880847716, "dur":38204, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710002880815066, "dur":1317, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710002880816384, "dur":2683, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1710002880819073, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Temp\\StagingArea\\WindowsPlayer.exe" }}
+,{ "pid":12345, "tid":12, "ts":1710002880819067, "dur":62, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates.exe" }}
+,{ "pid":12345, "tid":12, "ts":1710002880820571, "dur":899, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates.exe" }}
+,{ "pid":12345, "tid":12, "ts":1710002880821537, "dur":843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880822412, "dur":625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880823083, "dur":568, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880823676, "dur":1098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880824815, "dur":1089, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880825959, "dur":882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880826898, "dur":1147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880828096, "dur":1196, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880829348, "dur":1416, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Boxophobic.Utils.Scripts.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880830806, "dur":1195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880832060, "dur":973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880833094, "dur":1265, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880834391, "dur":2361, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880836805, "dur":2484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880839357, "dur":2850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880842259, "dur":2749, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1710002880845072, "dur":2358, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":12, "ts":1710002880847452, "dur":38450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1710002880815120, "dur":1303, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1710002880816424, "dur":2590, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1710002880819015, "dur":280, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1710002880868392, "dur":547, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1710002880868959, "dur":16967, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1710002880815136, "dur":1360, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1710002880816497, "dur":2472, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1710002880818976, "dur":175, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1710002880818972, "dur":180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1710002880828107, "dur":750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":14, "ts":1710002880828922, "dur":1254, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880830231, "dur":1186, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880831476, "dur":1086, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880832624, "dur":1190, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880833840, "dur":1240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880835151, "dur":2263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880837479, "dur":2537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880840045, "dur":2853, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880842939, "dur":3214, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1710002880846199, "dur":1880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/level0" }}
+,{ "pid":12345, "tid":14, "ts":1710002880848099, "dur":37811, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1710002880815308, "dur":1230, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1710002880816538, "dur":2419, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1710002880818957, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1710002880841065, "dur":1191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":15, "ts":1710002880842319, "dur":3052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1710002880845440, "dur":1762, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":15, "ts":1710002880847280, "dur":1080, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":15, "ts":1710002880848386, "dur":37519, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710002880815380, "dur":1214, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710002880816595, "dur":2361, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1710002880819150, "dur":102, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":16, "ts":1710002880818956, "dur":296, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1710002880865098, "dur":457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":16, "ts":1710002880865599, "dur":20336, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1710002880815405, "dur":1230, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1710002880816635, "dur":2320, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1710002880818957, "dur":336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":17, "ts":1710002880867982, "dur":618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":17, "ts":1710002880868624, "dur":17313, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1710002880815418, "dur":1276, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1710002880816695, "dur":2394, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1710002880833971, "dur":3262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":18, "ts":1710002880837305, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1710002880839871, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1710002880842686, "dur":3150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1710002880845873, "dur":2039, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/resources.assets" }}
+,{ "pid":12345, "tid":18, "ts":1710002880847961, "dur":37942, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1710002880815479, "dur":1317, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1710002880816796, "dur":2290, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1710002880819087, "dur":146, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":19, "ts":1710002880858843, "dur":850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":19, "ts":1710002880859714, "dur":26205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710002880815468, "dur":1264, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710002880816732, "dur":2219, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710002880818961, "dur":68, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1710002880849370, "dur":634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/app.info" }}
+,{ "pid":12345, "tid":20, "ts":1710002880850005, "dur":35911, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1710002880815801, "dur":1055, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1710002880816856, "dur":2150, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1710002880819007, "dur":233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1710002880862238, "dur":554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":21, "ts":1710002880862812, "dur":23124, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1710002880815789, "dur":1025, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1710002880816815, "dur":2192, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1710002880819008, "dur":288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":22, "ts":1710002880868532, "dur":429, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":22, "ts":1710002880868981, "dur":16928, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1710002880815534, "dur":1265, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1710002880816800, "dur":2153, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1710002880818965, "dur":80, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":23, "ts":1710002880818956, "dur":90, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":23, "ts":1710002880849068, "dur":661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":23, "ts":1710002880849750, "dur":36260, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1710002880815545, "dur":1258, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1710002880816804, "dur":2205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1710002880819010, "dur":148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":24, "ts":1710002880841734, "dur":801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":24, "ts":1710002880842566, "dur":2813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1710002880845680, "dur":1695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":24, "ts":1710002880847418, "dur":38490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1710002880815864, "dur":1097, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1710002880816962, "dur":2046, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1710002880819018, "dur":300, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":25, "ts":1710002880819009, "dur":310, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":25, "ts":1710002880871938, "dur":492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":25, "ts":1710002880872467, "dur":13454, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1710002880815648, "dur":1160, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1710002880816808, "dur":2311, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1710002880833580, "dur":1303, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":26, "ts":1710002880834938, "dur":2729, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1710002880837730, "dur":2691, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1710002880840479, "dur":2767, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1710002880843315, "dur":4068, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1710002880847420, "dur":38493, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1710002880815769, "dur":1041, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1710002880816811, "dur":2200, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1710002880819012, "dur":211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":27, "ts":1710002880853803, "dur":678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":27, "ts":1710002880854533, "dur":31404, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1710002880815817, "dur":1103, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1710002880816921, "dur":2126, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1710002880819051, "dur":247, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":28, "ts":1710002880819047, "dur":251, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":28, "ts":1710002880871726, "dur":629, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":28, "ts":1710002880872386, "dur":13541, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1710002880815959, "dur":1070, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1710002880817029, "dur":2030, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1710002880819064, "dur":77, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.20f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880819059, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880824498, "dur":2355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880826884, "dur":934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Cinemachine.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880827871, "dur":1116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880829033, "dur":1167, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880830232, "dur":797, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880831161, "dur":1149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880832349, "dur":857, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880833235, "dur":1435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880834723, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880837118, "dur":2301, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880839449, "dur":3070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880842581, "dur":3035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1710002880845663, "dur":2148, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":29, "ts":1710002880847833, "dur":38073, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1710002880816025, "dur":1067, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1710002880817093, "dur":1885, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1710002880818979, "dur":143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":30, "ts":1710002880842392, "dur":619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":30, "ts":1710002880843042, "dur":3633, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1710002880846726, "dur":1436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":30, "ts":1710002880848182, "dur":37737, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1710002880815924, "dur":1101, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1710002880817026, "dur":2090, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1710002880841981, "dur":3120, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":31, "ts":1710002880845139, "dur":1399, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":31, "ts":1710002880846608, "dur":2122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/FallingCrates_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":31, "ts":1710002880848750, "dur":37189, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1710002880816037, "dur":1060, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1710002880817097, "dur":1878, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1710002880818976, "dur":254, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":32, "ts":1710002880854214, "dur":523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/zenet/Downloads/Unity/FallingCrates-Win/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":32, "ts":1710002880854754, "dur":31179, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1710002880888617, "dur":603, "ph":"X", "name": "ProfilerWriteOutput" }
+,
