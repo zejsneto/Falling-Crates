@@ -1,6 +1,3 @@
-
-
-
 # FallingCrates
 
 ## ℹ️ Description
