@@ -2,7 +2,7 @@
 
 ## ℹ️ Description
 
-Falling Crates is a game made using Unity/C# where the objective is to dodge the falling crates with you player movement. The project used a lot of concepts like PlayerPrefs, Coroutines, Cinemachine, Particle Effects and TriggerEvents, for example.
+Falling Crates is a game made using Unity/C# where the objective is to dodge the falling crates with you player movement. The project used a lot of concepts like LeanTween, PlayerPrefs, Coroutines, Cinemachine, Particle Effects and TriggerEvents, for example.
 
 Link: [Play Game](https://zejsneto.itch.io/fallingcrates)<br>
 
